@@ -400,9 +400,6 @@ Community Repos:
 
 AWS Repos:
 
-* [amazon-appstream-net](https://github.com/awslabs/amazon-appstream-net) - Bindings to the native AppStream API.
-* [amazon-appstream-sample-entitlement-service](https://github.com/awslabs/amazon-appstream-sample-entitlement-service) - Session management, cognito integration, and web UI.
-* [aws-appstream-sdk-java](https://github.com/awslabs/aws-appstream-sdk-java) - SDK for Java.
 
 Community Repos:
 
@@ -610,6 +607,7 @@ Community Repos:
 * [evannuil/aws-snapshot-tool :fire:](https://github.com/evannuil/aws-snapshot-tool) - Automates EBS snapshots and rotation.
 * [kelseyhightower/kubernetes-the-hard-way :fire::fire::fire::fire::fire:](https://github.com/kelseyhightower/kubernetes-the-hard-way) - Bootstrap Kubernetes the hard way on EC2. No scripts.
 * [mirakui/ec2ssh :fire::fire:](https://github.com/mirakui/ec2ssh) - SSH config manager.
+* [openebs/openebs :fire::fire::fire::fire::fire:](https://github.com/openebs/openebs) - Containerized block storage QoS SLAs, tiering and replica policies across AZs and environments, and predictable and scalable performance.
 * [skavanagh/EC2Box :fire::fire:](https://github.com/skavanagh/EC2Box) - A web-based SSH console to manage multiple instances simultaneously.
 * [wbailey/claws :fire:](https://github.com/wbailey/claws) - CLI-driven console with capistrano integration.
 
